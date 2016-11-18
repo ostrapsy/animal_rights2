@@ -60,13 +60,13 @@ window.others = {
       {
         "avatar": "avatars/others/heather.png",
         "username": "Heather",
-        "text": "Just now I'm finishing up my first year of a difficult science curriculum in university. I am part of a student group there. I also work at a cosmetics counter as a part-time thing and earn some money online in my free time. I have a lot planned for my future, and it's really exciting. I want to grow up and be a doctor with a large family. It'll be fantastic.",
+        "text": "Just now I'm finishing up my first year of a difficult science curriculum in university. I also work at a cosmetics counter as a part-time thing and earn some money online in my free time. I have a lot planned for my future, and it's really exciting. I want to grow up and be a doctor with a large family. It'll be fantastic.",
         "likes": [13000, 50000, 80000, 88000, 120000] //5
       },
       {
         "avatar": "avatars/others/jane.png",
         "username": "Jane",
-        "text": "Dear all, my name is Jane and I will soon have an important interview. This is all I can think about these days. I hope youre doing well. Animal rights is a difucult issue, but I think they are very important food source and necessary in lab research",
+        "text": "Dear all, my name is Jane and I will soon have an important interview. This is all I can think about these days. I hope youre doing well. Animal rights is a difucult issue, but I think they are very important food source and necessary in lab research.",
         "likes": [10000, 15000, 24000, 50000] //6
       },
 
